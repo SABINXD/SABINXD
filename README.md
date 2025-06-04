@@ -1,4 +1,4 @@
-[![Sabin Dhungana]([https://sabindhungana.com.np/wp-content/uploads/2024/06/Black-White-Green-Modern-Tech-Software-Engineer-LinkedIn-Banner.png](https://github.com/SABINXD/SABINXD/blob/main/Sabin%20Dhungana.png?raw=true))](https://sabindhungana.com.np)
+[![Sabin Dhungana]([https://github.com/SABINXD/SABINXD/blob/main/Sabin%20Dhungana.png?raw=true](https://github.com/SABINXD/SABINXD/blob/main/Sabin%20Dhungana.png?raw=true))](https://sabindhungana.com.np)
 <h1 align="center">Hi 👋, I'm SABIN DHUNGANA</h1>
 <h3 align="center">A passionate Software developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
