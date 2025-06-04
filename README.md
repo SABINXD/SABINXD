@@ -9,13 +9,13 @@
   <img src="https://komarev.com/ghpvc/?username=sabinxd&label=Profile%20views&color=0e75b6&style=flat" alt="sabinxd" />
 </p>
 
-- 🔭 I’m currently learning **Flutter** and **React Native**
+- 🔭 I’m currently learning **Java**.
 
-- 👨‍💻 All of my projects are available [here](https://sabindhungana.com.np/portfolio)
+- 👨‍💻 All of my projects are available [here](https://sabindhungana.com.np)
 
-- 📝 I regularly write articles [here](https://sabindhungana.com.np)
+- 📝 I regularly post Videos on  **[CodeWithSabin](https://www.youtube.com/@CodeWithsabin1)** , **[TechSabin](https://www.youtube.com/@TechSabin)**
 
-- 💬 Ask me about **WordPress, Python, JavaScript, Angular, React, Flutter**
+- 💬 Ask me about **WordPress, Python, JavaScript, Angular, PHP **
 
 - 📫 Reach me at **contact@sabindhungana.com.np**
 
@@ -43,9 +43,9 @@
 
 <p align="left">
   <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40" alt="Angular" /></a>
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter" /></a>
+
   <a href="https://reactjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" /></a>
-  <a href="https://reactnative.dev" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" alt="React Native" /></a>
+ 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" /></a>
